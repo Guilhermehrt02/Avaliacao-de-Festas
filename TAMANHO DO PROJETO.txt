@@ -6,7 +6,7 @@ ENTIDADES
 - Usuário - 2 ( Ator médio [UAW] ) - 2
 - Admin -  3 ( Ator complexo [UAW] ) - 3
 - Festa - 2 ( Ator médio [UAW] ) - 2
-- Avaliação - 3 + 10 ( Médio [UUCW] ) - 10 
+- Avaliação - 10 ( Médio [UUCW] ) - 10 
 - Organizador - 10 ( Médio [UUCW] ) - 10
 - Notificação - 10 ( Médio [UUCW] ) - 10
 - Localização -  5 ( Simples [UUCW] ) - 5
