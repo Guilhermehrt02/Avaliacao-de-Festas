@@ -3,24 +3,24 @@ TAMANHO DO PROJETO
 2. Estimativa de Tamanho e Esforço (UUCP):
 
 ENTIDADES
-- Usuário - 3 + 10 ( Ator simples [UAW] + Caso médio [UUCW]) - 30
-- Admin -  3 + 5 ( Ator simples [UAW] + Caso simples [UUCW]) - 15
-- Festa - 3 + 10 ( Ator simples [UAW] + Caso médio [UUCW]) - 30
-- Avaliação - 3 + 10 ( Ator simples [UAW] + Caso médio [UUCW]) - 30 
-- Organizador - 3 + 15 ( Ator simples [UAW] + Caso complexo [UUCW]) - 45
-- Notificacao - 3 + 15 ( Ator simples [UAW] + Caso complexo [UUCW]) - 45
-- Localização -  3 + 5 ( Ator simples [UAW] + Caso simples [UUCW]) - 15
-- Comentário -  3 + 10 ( Ator simples [UAW] + Caso médio [UUCW]) - 30
-- Categoria (festa)  - 3 + 5 ( Ator simples [UAW] + Caso simples [UUCW]) - 15
-- Preferência - 3 + 5 ( Ator simples [UAW] + Caso simples [UUCW]) - 15
+- Usuário - 2 ( Ator médio [UAW] ) - 2
+- Admin -  3 ( Ator complexo [UAW] ) - 3
+- Festa - 2 ( Ator médio [UAW] ) - 2
+- Avaliação - 3 + 10 ( Médio [UUCW] ) - 10 
+- Organizador - 10 ( Médio [UUCW] ) - 10
+- Notificação - 10 ( Médio [UUCW] ) - 10
+- Localização -  5 ( Simples [UUCW] ) - 5
+- Comentário -  5 ( Simples [UUCW] ) - 5
+- Categoria (festa)  - 5 ( Simples [UUCW] ) - 5
+- Preferência - 5 ( Simples [UUCW] ) - 5
 
-Somando tudo = 270
+Somando tudo = 57
 
 Utilizando a fórmula
 Tamanho UCP = UUCP (peso total de atores e casos de uso) * TCF (complexidade técnica) * EF (complexidade do ambiente
  Fatores técnicos: 1,2. 
  Fatores ambientais: 0,9.
 
-UCP = 270 * 1,2 * 0,9
-UCP = 291,6 ucp
-Passando para horas será 874,8 horas 
+UCP = 57 * 1,2 * 0,9
+UCP = 61,56 ucp
+Passando para horas será 184,68 horas 
