@@ -1,18 +1,18 @@
 TAMANHO DO PROJETO
 
-2. Estimativa de Tamanho e Esforço:
+2. Estimativa de Tamanho e Esforço (UUCP):
 
 ENTIDADES
-- Usuário - 3 * 10 ( Ator simples * Caso médio ) - 30
-- Admin -  3 * 5 ( Ator simples * Caso simples) - 15
-- Festa - 3 * 10 ( Ator simples * Caso médio ) - 30
-- Avaliação - 3 * 10 ( Ator simples * Caso médio ) - 30 
-- Organizador - 3 * 15 ( Ator simples * Caso complexo) - 45
-- Notificacao - 3 * 15 ( Ator simples * Caso complexo ) - 45
-- Localização -  3 * 5 ( Ator simples * Caso simples) - 15
-- Comentário -  3 * 10 ( Ator simples * Caso médio ) - 30
-- Categoria (festa)  - 3 *5 ( Ator simples * Caso simples) - 15
-- Preferência - 3 * 5 ( Ator simples * Caso simples) - 15
+- Usuário - 3 + 10 ( Ator simples [UAW] + Caso médio [UUCW]) - 30
+- Admin -  3 + 5 ( Ator simples [UAW] + Caso simples [UUCW]) - 15
+- Festa - 3 + 10 ( Ator simples [UAW] + Caso médio [UUCW]) - 30
+- Avaliação - 3 + 10 ( Ator simples [UAW] + Caso médio [UUCW]) - 30 
+- Organizador - 3 + 15 ( Ator simples [UAW] + Caso complexo [UUCW]) - 45
+- Notificacao - 3 + 15 ( Ator simples [UAW] + Caso complexo [UUCW]) - 45
+- Localização -  3 + 5 ( Ator simples [UAW] + Caso simples [UUCW]) - 15
+- Comentário -  3 + 10 ( Ator simples [UAW] + Caso médio [UUCW]) - 30
+- Categoria (festa)  - 3 + 5 ( Ator simples [UAW] + Caso simples [UUCW]) - 15
+- Preferência - 3 + 5 ( Ator simples [UAW] + Caso simples [UUCW]) - 15
 
 Somando tudo = 270
 
